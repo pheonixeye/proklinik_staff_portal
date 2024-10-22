@@ -1,0 +1,20 @@
+{
+    "@@locale": "ar",
+    "@@login_screen" : "",
+    "proklinik" : "بروكلينيك",
+    "email": "البريد الالكتروني",
+    "enterValidEmail" : "برجاء ادخال بريد الكتروني صحيح.",
+    "password" : "كلمة السر",
+    "kindlyEnterPassword": "برجاء ادخال كلمة السر",
+    "rememberMe" : "تذكرني",
+    "login" : "تسجيل الدخول",
+    "forgotPassword" : "نسيان كلمة السر",
+    "linkSentToEmail" : "تم ارسال رابط تعديل كلمة السر علي البريد الالكتروني",
+    "notRegisteredYet" : "ليس لديك حساب ؟  ",
+    "createAccount" : "انشاء حساب.",
+    "@@components" : "",
+    "success" : "تم بنجاح...",
+    "loading" : "جاري التحميل...",
+    "confirm" : "تأكيد",
+    "cancel" : "الغاء"
+}

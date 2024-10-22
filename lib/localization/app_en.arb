@@ -1,0 +1,20 @@
+{
+    "@@locale": "en",
+    "@@login_screen" : "",
+    "proklinik" : "ProKliniK",
+    "email": "Email",
+    "enterValidEmail" : "Kindly Enter a Valid Email Address.",
+    "password" : "Password",
+    "kindlyEnterPassword": "Kindly Enter Password.",
+    "rememberMe" : "Remember me",
+    "login" : "Login",
+    "forgotPassword" : "Forgot Password",
+    "linkSentToEmail" : "A Password Reset Link Was Sent To Your Email Address.",
+    "notRegisteredYet" : "Not Registered Yet ?  ",
+    "createAccount" : "Create An Account.",
+    "@@components" : "",
+    "success" : "Success...",
+    "loading" : "Loading...",
+    "confirm" : "Confirm",
+    "cancel" : "Cancel"
+}
